@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Новости технологий</title>
+    <link>https://tech-news.example</link>
+    <description>Последние новости из мира IT</description>
+    <item>
+      <title>Искусственный интеллект в медицине</title>
+      <link>https://tech-news.example/ai-medicine</link>
+      <pubDate>Mon, 15 Jan 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Запуск нового процессора</title>
+      <link>https://tech-news.example/new-cpu</link>
+      <pubDate>Tue, 16 Jan 2024 09:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
